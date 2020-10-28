@@ -1,0 +1,33 @@
+.login-form h2 {
+    margin: 0 0 15px;
+}
+.text-center {
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+.form-signin {
+    width: 100%;
+    max-width: 330px;
+    padding: 15px;
+    margin: auto;
+}
+form {
+    user-select: auto;
+    display: flex;
+    align-items: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    background-color: #f5f5f5;
+    display: block;
+    margin-top: 0em;
+}
+Style Attribute {
+    user-select: auto;
+}
+/* .text-center {
+    text-align: center!important;
+} */
+.signin{
+    padding-top: 150px;
+}
